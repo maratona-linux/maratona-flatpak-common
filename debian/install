@@ -1,0 +1,3 @@
+# See dh_install(1)
+
+scripts/* usr/share/maratona-flatpak-common/

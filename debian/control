@@ -1,0 +1,16 @@
+Source: maratona-flatpak-common
+Section: misc
+Priority: optional
+Maintainer: Bruno César Ribas <bruno.ribas@unb.br>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0.1
+Vcs-Git: https://github.com/maratona-linux/maratona-flatpak-common.git
+Vcs-Browser: https://github.com/maratona-linux/maratona-flatpak-common
+
+Package: maratona-flatpak-common
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}, flatpak, ca-certificates
+Description: Pacote com a funções de instalação flatpak do Maratona Linux
+ Este pacote instala o flatpak e scripts usados pelo Maratona Linux para
+ instalar programas empacotados nesse formato.

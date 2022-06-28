@@ -1,0 +1,9 @@
+maratona-flatpak-common (20220626) jammy; urgency=low
+
+  * Initial release.
+    - emancipate package from maratona-meta
+    - improve package's description
+    - replace `grep | wc -l` with `grep --count`
+    - compare flatpak IDs for packages and SDK extensions
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Sun, 26 Jun 2022 15:52:09 -0300
