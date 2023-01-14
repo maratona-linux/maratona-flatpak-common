@@ -10,7 +10,7 @@ Source: <https://github.com/maratona-linux/maratona-flatpak-common>
 
 Files: *
 Copyright: 2020 Guilherme Antonio Deusdará Banci <guibanci@gmail.com>
-           2022 Davi Antônio da Silva Santos <antoniossdavi@gmail.com>
+           2022-2023 Davi Antônio da Silva Santos <antoniossdavi@gmail.com>
 License: GPL-2.0+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
