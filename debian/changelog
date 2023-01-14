@@ -1,3 +1,9 @@
+maratona-flatpak-common (20230113) jammy; urgency=medium
+
+  * Update copyright's years
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Fri, 13 Jan 2023 23:41:35 -0300
+
 maratona-flatpak-common (20220626) jammy; urgency=low
 
   * Initial release.
